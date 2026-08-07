@@ -1,0 +1,6 @@
+*.plugin
+*.zip
+*.exe
+*.cmd
+guardian-*-evidence-*.json
+

@@ -1,0 +1,7 @@
+677f392c893b7eb0b910936006ea432e5038dafcf5e8eeeb15547312de7a9f39  guardian-enterprise-v2.8.25.plugin
+582e7813110ec9420c77e85820e0b69b380fd3e714d5c16bd86427d0e7bb4019  guardian-standalone-v2.8.25.zip
+d01e6aed619d551f160b99f9b6c60a9b650e27516fb3bd28d32f616b14f12e31  guardian-prompt-kit-v2.8.25.zip
+94a8ec5dc81b917dc73ee2b43bc5c715610a06f9b053832680031c96aba85e59  guardian-windows-standalone-v2.8.25.exe
+92f3356ebaa0ff010d933240229ea4fb53181e6826357b93bf88e92466aacc36  guardian-windows-standalone-v2.8.25.cmd
+5abdd2d5a6af652c3025b976556d8d3c39d80168eda62727c8d65bd02816e5ce  guardian-windows-standalone-v2.8.25.zip
+
