@@ -4,7 +4,7 @@ Choose the package that matches the target system. Verify the downloaded file be
 
 ## Windows
 
-The primary package is `guardian-windows-standalone-v2.8.25.exe`.
+The primary package is `guardian-windows-standalone-v2.8.26.exe`.
 
 1. Download the EXE from the GitHub Release.
 2. Compare its SHA-256 value with `SHA256SUMS.txt`.
@@ -34,7 +34,7 @@ The `openai` target records the current remote-service requirement. It does not 
 
 ## macOS
 
-Use `guardian-standalone-v2.8.25.zip`.
+Use `guardian-standalone-v2.8.26.zip`.
 
 1. Install Node.js 24 LTS.
 2. Extract the ZIP.
@@ -46,30 +46,30 @@ The package also includes `uninstall-guardian.command` for local cleanup.
 
 ## Claude plugin package
 
-Use `guardian-enterprise-v2.8.25.plugin` with a compatible Claude plugin installation flow. The package includes the Guardian server, hooks, skills, and agent references.
+Use `guardian-enterprise-v2.8.26.plugin` with a compatible Claude plugin installation flow. The package includes the Guardian server, hooks, skills, and agent references.
 
 ## Prompt kit
 
-Use `guardian-prompt-kit-v2.8.25.zip` when the target surface cannot load the local MCP server. Extract the archive and follow its included README. The prompt kit provides instructions and reference agents without the automated local server features.
+Use `guardian-prompt-kit-v2.8.26.zip` when the target surface cannot load the local MCP server. Extract the archive and follow its included README. The prompt kit provides instructions and reference agents without the automated local server features.
 
 ## Verify a download
 
 Windows PowerShell:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\guardian-windows-standalone-v2.8.25.exe
+Get-FileHash -Algorithm SHA256 .\guardian-windows-standalone-v2.8.26.exe
 ```
 
 macOS:
 
 ```bash
-shasum -a 256 guardian-standalone-v2.8.25.zip
+shasum -a 256 guardian-standalone-v2.8.26.zip
 ```
 
 Linux:
 
 ```bash
-sha256sum guardian-prompt-kit-v2.8.25.zip
+sha256sum guardian-prompt-kit-v2.8.26.zip
 ```
 
 Match the result exactly with the corresponding line in `SHA256SUMS.txt`.
