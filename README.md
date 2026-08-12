@@ -13,13 +13,11 @@ Guardian is an MCP-based quality governance framework for AI-assisted work. It p
 | [`guardian-windows-standalone-v2.8.26.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.26/guardian-windows-standalone-v2.8.26.zip) | Windows payload archive for inspection or managed deployment |
 | [`guardian-enterprise-v2.8.26.plugin`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.26/guardian-enterprise-v2.8.26.plugin) | Plugin package for compatible Claude plugin hosts |
 | [`guardian-standalone-v2.8.26.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.26/guardian-standalone-v2.8.26.zip) | macOS and traditional Windows installer package using an existing Node.js 24 installation |
-| [`guardian-prompt-kit-v2.8.26.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.26/guardian-prompt-kit-v2.8.26.zip) | Prompt and reference-agent kit for surfaces without a local MCP connection |
 
 Release assets are attached to [Guardian v2.8.26](https://github.com/Guardian-MCP/guardian-downloads/releases/tag/v2.8.26). Verify each download against `SHA256SUMS.txt`.
 
 ## Install
 
-Windows users can start with the EXE package. macOS users can extract the standalone ZIP and run `install-guardian.command`. Plugin and prompt-kit users can follow the package-specific instructions.
 
 See [INSTALL.md](INSTALL.md) for platform steps, installer switches, and checksum commands.
 
@@ -55,5 +53,5 @@ This repository distributes approved documentation and release packages. Guardia
 
 ## Ownership
 
-Guardian is owned by Ryan Klemetson. The EULA and Terms in this review project remain drafts until their approval banners are removed. Mechanical prose findings do not authorize changes to legal obligations; owner-approved legal review controls those documents.
+Guardian is owned by Ryan Klemetson. The EULA and Terms were approved by the owner on 2026-08-12. Owner-approved legal review controls those documents.
 

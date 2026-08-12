@@ -1,7 +1,5 @@
 # Guardian Terms of Use
 
-**DRAFT: pending owner approval by Ryan Klemetson. Not final until this banner is removed.**
-
 These terms accompany the Guardian End User License Agreement (EULA.md) and govern day-to-day use.
 
 ## 1. Acceptable use

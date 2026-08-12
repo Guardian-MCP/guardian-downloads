@@ -7,7 +7,6 @@ Guardian applies local quality governance to AI-assisted work through an MCP ser
 - Windows users can start with the no-dependency EXE.
 - macOS users can use the standalone ZIP with Node.js 24 LTS.
 - Compatible Claude plugin hosts can import the plugin package.
-- Prompt-only environments can use the prompt kit.
 
 The [GitHub Releases page](https://github.com/Guardian-MCP/guardian-downloads/releases) provides downloads and checksums. The [Guardian downloads repository](https://github.com/Guardian-MCP/guardian-downloads) provides installation guidance, security reporting, support information, and legal documents.
 

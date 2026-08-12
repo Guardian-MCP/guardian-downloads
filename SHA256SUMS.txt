@@ -1,6 +1,5 @@
 70d27a688dbfa832c609c6ec28573b4ab2ce081a3aeaacf19a14e7697a95c72b  guardian-enterprise-v2.8.26.plugin
 4adef36e68fc0a452956b12a6e4ed3e5aa587014b80ea9ea5237d4be16d85ee4  guardian-standalone-v2.8.26.zip
-c4f049c44e90a7510ec57fb797c47ec1497caafe35a9ec2655f041cd7aeac441  guardian-prompt-kit-v2.8.26.zip
 eef4ea6045ffae2398566ac8d1f6a80cb13811e8f8c2db547df4b9f1755df6b7  guardian-windows-standalone-v2.8.26.exe
 1fcf973a0421ff5340a95f9fc59bcc13394d2e34003e65704287271599dfc624  guardian-windows-standalone-v2.8.26.cmd
 afbd2bbcf9782e432f3f8de8232169e55f6ce0feae2caef8432fe147b384e748  guardian-windows-standalone-v2.8.26.zip

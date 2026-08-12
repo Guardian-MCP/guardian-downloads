@@ -1,7 +1,5 @@
 # Guardian End User License Agreement
 
-**DRAFT: pending owner approval by Ryan Klemetson. Not final until this banner is removed.**
-
 Effective for Guardian version 2.8.22 and later. By clicking Agree during installation, or by clicking Accept after a version update, you enter this agreement with the owner of Guardian, Ryan Klemetson ("the Owner"). You confirm you are at least 18 years old, or, if you are younger, that a parent or legal guardian has reviewed and accepted this agreement on your behalf and agrees to be bound by it. If accepting for an organization, you confirm you have authority to bind it.
 
 ## 1. License grant

@@ -48,10 +48,6 @@ The package also includes `uninstall-guardian.command` for local cleanup.
 
 Use `guardian-enterprise-v2.8.26.plugin` with a compatible Claude plugin installation flow. The package includes the Guardian server, hooks, skills, and agent references.
 
-## Prompt kit
-
-Use `guardian-prompt-kit-v2.8.26.zip` when the target surface cannot load the local MCP server. Extract the archive and follow its included README. The prompt kit provides instructions and reference agents without the automated local server features.
-
 ## Verify a download
 
 Windows PowerShell:
@@ -69,7 +65,7 @@ shasum -a 256 guardian-standalone-v2.8.26.zip
 Linux:
 
 ```bash
-sha256sum guardian-prompt-kit-v2.8.26.zip
+sha256sum guardian-standalone-v2.8.26.zip
 ```
 
 Match the result exactly with the corresponding line in `SHA256SUMS.txt`.
