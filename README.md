@@ -8,13 +8,13 @@ Guardian is an MCP-based quality governance framework for AI-assisted work. It p
 
 | Asset | Intended use |
 | --- | --- |
-| [`guardian-windows-standalone-v2.8.28.exe`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.28/guardian-windows-standalone-v2.8.28.exe) | Primary Windows installer with a bundled Node.js runtime |
-| [`guardian-windows-standalone-v2.8.28.cmd`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.28/guardian-windows-standalone-v2.8.28.cmd) | Windows script fallback when local policy blocks the EXE |
-| [`guardian-windows-standalone-v2.8.28.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.28/guardian-windows-standalone-v2.8.28.zip) | Windows payload archive for inspection or managed deployment |
-| [`guardian-standalone-v2.8.28.plugin`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.28/guardian-standalone-v2.8.28.plugin) | Plugin package for compatible Claude plugin hosts |
-| [`guardian-standalone-v2.8.28.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.28/guardian-standalone-v2.8.28.zip) | macOS and traditional Windows installer package using an existing Node.js 24 installation |
+| [`guardian-windows-standalone-v2.8.29.exe`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.29/guardian-windows-standalone-v2.8.29.exe) | Primary Windows installer with a bundled Node.js runtime |
+| [`guardian-windows-standalone-v2.8.29.cmd`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.29/guardian-windows-standalone-v2.8.29.cmd) | Windows script fallback when local policy blocks the EXE |
+| [`guardian-windows-standalone-v2.8.29.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.29/guardian-windows-standalone-v2.8.29.zip) | Windows payload archive for inspection or managed deployment |
+| [`guardian-standalone-v2.8.29.plugin`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.29/guardian-standalone-v2.8.29.plugin) | Plugin package for compatible Claude plugin hosts |
+| [`guardian-standalone-v2.8.29.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.29/guardian-standalone-v2.8.29.zip) | macOS and traditional Windows installer package using an existing Node.js 24 installation |
 
-Release assets are attached to [Guardian v2.8.28](https://github.com/Guardian-MCP/guardian-downloads/releases/tag/v2.8.28). Verify each download against `SHA256SUMS.txt`.
+Release assets are attached to [Guardian v2.8.29](https://github.com/Guardian-MCP/guardian-downloads/releases/tag/v2.8.29). Verify each download against `SHA256SUMS.txt`.
 
 ## Install
 
@@ -40,8 +40,9 @@ See [DATA_AND_PRIVACY.md](DATA_AND_PRIVACY.md) for the technical disclosure.
 ## Documentation
 
 <!-- guardian-release-pdfs:start -->
-- [Install guide PDF v2.8.28](docs/releases/v2.8.28/Guardian_Install_v2.8.28.pdf)
-- [Quick Start PDF v2.8.28](docs/releases/v2.8.28/Guardian_QuickStart_v2.8.28.pdf)
+- [Install guide PDF v2.8.29](docs/releases/v2.8.29/Guardian_Install_v2.8.29.pdf)
+- [Quick Start PDF v2.8.29](docs/releases/v2.8.29/Guardian_QuickStart_v2.8.29.pdf)
+- [Troubleshooting PDF v2.8.29](docs/releases/v2.8.29/Guardian_Troubleshooting_v2.8.29.pdf)
 <!-- guardian-release-pdfs:end -->
 
 - [Installation](INSTALL.md)
@@ -50,7 +51,7 @@ See [DATA_AND_PRIVACY.md](DATA_AND_PRIVACY.md) for the technical disclosure.
 - [Data and privacy](DATA_AND_PRIVACY.md)
 - [End User License Agreement](EULA.md)
 - [Terms of Use](TERMS.md)
-- [Release notes](docs/releases/v2.8.28.md)
+- [Release notes](docs/releases/v2.8.29.md)
 
 ## Source availability
 

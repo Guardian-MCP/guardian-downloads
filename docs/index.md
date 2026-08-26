@@ -17,8 +17,9 @@ Guardian processes checked content locally and collects no product telemetry for
 ## Documentation
 
 <!-- guardian-release-pdfs:start -->
-- [Install guide PDF v2.8.28](releases/v2.8.28/Guardian_Install_v2.8.28.pdf)
-- [Quick Start PDF v2.8.28](releases/v2.8.28/Guardian_QuickStart_v2.8.28.pdf)
+- [Install guide PDF v2.8.29](releases/v2.8.29/Guardian_Install_v2.8.29.pdf)
+- [Quick Start PDF v2.8.29](releases/v2.8.29/Guardian_QuickStart_v2.8.29.pdf)
+- [Troubleshooting PDF v2.8.29](releases/v2.8.29/Guardian_Troubleshooting_v2.8.29.pdf)
 <!-- guardian-release-pdfs:end -->
 
 - [Install Guardian](https://github.com/Guardian-MCP/guardian-downloads/blob/main/INSTALL.md)
