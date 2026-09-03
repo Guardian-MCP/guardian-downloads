@@ -1,6 +1,6 @@
 # Guardian
 
-> Public release status: this repository remains private for developer review. Public visibility has not been approved.
+> Public release status: approved Guardian downloads and documentation are available from this repository.
 
 Guardian is an MCP-based quality governance framework for AI-assisted work. It provides writing checks, enforcement modes, release-ready workflows, reference agents, and a local status interface across supported AI development surfaces.
 
