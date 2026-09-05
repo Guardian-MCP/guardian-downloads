@@ -1,12 +1,8 @@
 # Support
 
-## Review-stage support
-
-This repository is private while the release package and documents are under developer review. Review findings can use repository issues or direct collaborator discussion.
-
 ## Product support
 
-Support availability follows the purchased tier or organization agreement. Scout has no response-time commitment.
+Support availability follows the purchased plan or organization agreement. Scout has no response-time commitment.
 
 For installation, licensing, or product questions, contact ryanklemetson13@gmail.com with:
 
@@ -20,4 +16,3 @@ For installation, licensing, or product questions, contact ryanklemetson13@gmail
 Remove license keys, customer content, and private vault material before sending logs or screenshots.
 
 Security reports follow [SECURITY.md](SECURITY.md).
-
