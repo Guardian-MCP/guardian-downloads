@@ -1,8 +1,17 @@
 # Guardian
 
-> Public release status: approved Guardian downloads and documentation are available from this repository.
+Guardian reshapes what your AI writes before you rely on it. It clears the patterns that mark machine writing, pushes claims back toward their sources, and holds every document to one standard. It runs inside Claude Desktop as a plugin, with a lighter skill for claude.ai. The free Scout plan runs without a license key.
 
-Guardian is an MCP-based quality governance framework for AI-assisted work. It provides writing checks, enforcement modes, release-ready workflows, reference agents, and a local status interface across supported AI development surfaces.
+## Which file do I download?
+
+Every download lives on the [current release page](https://github.com/Guardian-MCP/guardian-downloads/releases/latest).
+
+- Claude Desktop on Mac or Windows: the .plugin file. Open Claude Desktop, go to Settings, then Extensions, and drag it in. Click Agree on the license when it appears.
+- Windows, and you would rather run an installer: the .exe file. Double-click it. If Windows blocks it, the .cmd file on the same page does the same job.
+- A Mac or PC that already has Node.js 24: the .zip file.
+- claude.ai in a browser: the guardian-deliver skill folder inside the .zip. This is a lighter, rules-only setup.
+
+The install guide PDF walks through every step with pictures. [INSTALL.md](INSTALL.md) carries the same steps as text.
 
 ## Download options
 
@@ -14,12 +23,7 @@ Guardian is an MCP-based quality governance framework for AI-assisted work. It p
 | [`guardian-standalone-v2.8.30.plugin`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.30/guardian-standalone-v2.8.30.plugin) | Plugin package for compatible Claude plugin hosts |
 | [`guardian-standalone-v2.8.30.zip`](https://github.com/Guardian-MCP/guardian-downloads/releases/download/v2.8.30/guardian-standalone-v2.8.30.zip) | macOS and traditional Windows installer package using an existing Node.js 24 installation |
 
-Release assets are attached to [Guardian v2.8.30](https://github.com/Guardian-MCP/guardian-downloads/releases/tag/v2.8.30). Verify each download against `SHA256SUMS.txt`.
-
-## Install
-
-
-See [INSTALL.md](INSTALL.md) for platform steps, installer switches, and checksum commands.
+Release assets are attached to the [current release page](https://github.com/Guardian-MCP/guardian-downloads/releases/latest). Verify each download against `SHA256SUMS.txt`.
 
 ## Product behavior
 
@@ -60,4 +64,3 @@ This repository distributes approved documentation and release packages. Guardia
 ## Ownership
 
 Guardian is owned by Ryan Klemetson. The EULA and Terms were approved by the owner on 2026-08-12. Owner-approved legal review controls those documents.
-
