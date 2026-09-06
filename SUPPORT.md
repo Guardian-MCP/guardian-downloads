@@ -4,7 +4,9 @@
 
 Support availability follows the purchased plan or organization agreement. Scout has no response-time commitment.
 
-For installation, licensing, or product questions, contact ryanklemetson13@gmail.com with:
+For installation, licensing, or product questions, open an issue on this repository: https://github.com/Guardian-MCP/guardian-downloads/issues
+
+Include:
 
 - Guardian version
 - Operating system
@@ -13,6 +15,6 @@ For installation, licensing, or product questions, contact ryanklemetson13@gmail
 - Error text or result report
 - Steps that reproduce the problem
 
-Remove license keys, customer content, and private vault material before sending logs or screenshots.
+Issues are public. Remove license keys, customer content, and private vault material before posting logs or screenshots.
 
 Security reports follow [SECURITY.md](SECURITY.md).

@@ -6,7 +6,9 @@ Security fixes target the current release line. Older packages may lack current 
 
 ## Report a vulnerability
 
-Send security reports to ryanklemetson13@gmail.com. Include the affected version, operating system, reproduction steps, observed result, and expected result.
+Use GitHub's private vulnerability reporting for this repository: open the Security tab and choose Report a vulnerability, or go straight to https://github.com/Guardian-MCP/guardian-downloads/security/advisories/new
+
+Include the affected version, operating system, reproduction steps, observed result, and expected result.
 
 Keep license keys, customer content, vault files, and active exploit details out of public issues. A private report enables coordinated review before disclosure.
 
@@ -19,4 +21,3 @@ Guardian also integrates with third-party AI clients. Their authentication, tran
 ## Release integrity
 
 Each release includes SHA-256 checksums. Compare the downloaded asset with `SHA256SUMS.txt` before installation. Report any mismatch and retain the original filename and download source for investigation.
-
